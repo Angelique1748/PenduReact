@@ -1,0 +1,20 @@
+p {
+    color: #ffffff;
+    padding: 10px;
+    font-size: x-large;
+}
+
+.lettreDisplay{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin: 0px 50px 0px 50px;
+}
+
+.btnLettre{
+    margin: 5px;
+    font-size: large;
+}

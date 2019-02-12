@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+  background: #2f523a url("https://www.transparenttextures.com/patterns/45-degree-fabric-dark.png") repeat;
+  font-family: 'Pangolin', cursive;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.App-logo {
+  padding: 100px 0px 100px 0px;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.btnStart {
+    font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1{
+  color: ghostwhite;
+}
